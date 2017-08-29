@@ -1,1 +1,0 @@
-cd "$(dirname "$(find . -type f -name urls.py | head -1)")/.."
